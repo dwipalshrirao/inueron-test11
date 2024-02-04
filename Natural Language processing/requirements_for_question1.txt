@@ -1,4 +1,2 @@
-nltk
-tensorflow
 spacy
-autocorrect
+pyspellchecker
